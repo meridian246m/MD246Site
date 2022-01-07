@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /js
+Disallow: /includes
+Disallow: /fonts
+Disallow: /admin
+Disallow: /css
+Disallow: /fancyupload
+Disallow: /admin_all.php
+Disallow: /live-video.csv
+Disallow: /video-clip.csv
+Disallow: /style.css
+Disallow: /news/admin
+Disallow: /news/util
+Disallow: /news/config.php
+Disallow: /news/news.css
+Disallow: /protect
+Disallow: /bebko_fin
+
+
+Allow: /news/news.php
+Allow: /index.php
+Allow: /live-video.php
+Allow: /video-clip.php
+Allow: /foto-gallereya.php
+Allow: /music
+
+
+Sitemap: https://md246.com/sitemap.xml
